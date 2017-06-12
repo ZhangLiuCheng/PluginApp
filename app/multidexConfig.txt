@@ -1,0 +1,4 @@
+com/ayw/demo/plugin/MyApplication.class
+com/ayw/demo/plugin/MainActivity.class
+com/ayw/demo/plugin/Test5.class
+com/ayw/demo/plugin/Test6.class
